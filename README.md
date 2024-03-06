@@ -3,6 +3,9 @@
 Aster Poker Room is a web application to host heads up poker matches and multiplayer poker matches. 
 Users will be given a limited amount of chips starting out to simulate scarcity. 
 
+# Hosted at:
+https://master.d1bye8xdnavq88.amplifyapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
