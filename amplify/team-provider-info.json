@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-asterpokerroom-dev-224051-authRole",
+      "UnauthRoleArn": "arn:aws:iam::023511797941:role/amplify-asterpokerroom-dev-224051-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::023511797941:role/amplify-asterpokerroom-dev-224051-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-asterpokerroom-dev-224051-deployment",
+      "UnauthRoleName": "amplify-asterpokerroom-dev-224051-unauthRole",
+      "StackName": "amplify-asterpokerroom-dev-224051",
+      "StackId": "arn:aws:cloudformation:us-west-1:023511797941:stack/amplify-asterpokerroom-dev-224051/79b316d0-db84-11ee-b2e2-023e8c748a9f",
+      "AmplifyAppId": "d1bye8xdnavq88"
+    }
+  }
+}
