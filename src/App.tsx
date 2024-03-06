@@ -2,25 +2,18 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/* Notes:
+  - images cant be from local machine(security issue).
+*/
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Welcome</h1>
+      <img src={'https://img3.goodfon.com/wallpaper/nbig/f/b1/london-england-streets-night-people-urban-scene-cityscape-li.jpg'} alt='Cannot Load' />
     </div>
   );
 }
+
 
 export default App;
