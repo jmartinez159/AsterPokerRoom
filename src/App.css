@@ -1,5 +1,11 @@
 .App {
+  color: white;
+  height: 100vh;
   text-align: center;
+  background-color:black;
+  background-image: url('https://img3.goodfon.com/wallpaper/nbig/f/b1/london-england-streets-night-people-urban-scene-cityscape-li.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .App-logo {
